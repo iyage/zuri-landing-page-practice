@@ -1,3 +1,5 @@
+This is single page landing page for an online learning site, created with react and styled componnents
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
